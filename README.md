@@ -4,16 +4,16 @@ Utilizing Oracle RDBMS, designed and developed a database system for city transp
 
 The entire project was divided into four phases:
 
-- Phase 1  
+1. Phase 1  
 Formulated a problem description and detailed business requirements. For this project, I decided to design a database system for the Bengaluru Metropolitan Transportation Corporation (BMTC). _Growing up in Bengaluru, BMTC has always been a part of my life, which inspired me to develop a database system for this system._
 
-- Phase 2  
+2. Phase 2  
 Performed EER modeling.
 
-- Phase 3  
+3. Phase 3  
 Performed Relational mapping.
 
-- Phase 4  
+4. Phase 4  
 Final phase, which consisted of the following sub-phases:
 - Normalized relations to BCNF.
 - Transformed relations into tables in a relational database management system (RDBMS).
